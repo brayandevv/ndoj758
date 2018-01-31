@@ -1,0 +1,13 @@
+{
+      "app": "DaVinciJs",
+      "version": 1,
+      "installed":false,
+      "db_installed":false,
+      "admin_url":"/superadmin_lg",
+      "db_prefix":"tholding_",
+      "modules":[
+            {"name":"Talent","version":1,"installed":false},
+            {"name":"Landing","version":1,"installed":false}
+      ]
+}
+
