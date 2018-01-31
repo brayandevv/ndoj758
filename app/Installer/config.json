@@ -1,7 +1,7 @@
 {
       "app": "DaVinciJs",
       "version": 1,
-      "installed":false,
+      "installed":true,
       "db_installed":false,
       "admin_url":"/superadmin_lg",
       "db_prefix":"tholding_",
